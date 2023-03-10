@@ -1,0 +1,4 @@
+rootProject.name = 'Java-2022-121'
+include 'hw01-gradle'
+include 'hw01-gradle'
+
